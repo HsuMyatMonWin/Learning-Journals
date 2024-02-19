@@ -1,4 +1,4 @@
-# Week 1
+# Week 2
 
 ## Learning Activities & Resources
 - Finished a course on LinkedIn Learning about WordPress Essentials
